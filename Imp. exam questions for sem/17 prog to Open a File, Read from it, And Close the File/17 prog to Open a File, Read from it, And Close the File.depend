@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706196466 source:c:\abhisek\programming\c programming\imp. exam questions for sem\17 prog to open a file, read from it, and close the file\main.c
+	<stdio.h>
+	<string.h>
+
